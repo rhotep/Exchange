@@ -1,7 +1,1 @@
-var config = {
-    apiKey: "[APIKEY]",
-    authDomain: "[DOMAIN]",
-    databaseURL: "[DBURL]",
-    storageBucket: "[STORAGEBUCKET]",
-    messagingSenderId: "[SENDERID]"
-  };
+this is a test
